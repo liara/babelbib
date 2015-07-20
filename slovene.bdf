@@ -112,7 +112,7 @@
   \def\btxprintmonthyearnum##1##2{##1/##2}%
   \def\btxkeywordlanguage##1{{\protect\selectlanguage{#1}##1}}%
   \ifbbbblanguagenames
-    \def\btxlanguagenameamerican{\protect\foreignlanguage{#1}{angle\v{s}ki}%
+    \def\btxlanguagenameamerican{\protect\foreignlanguage{#1}{angle\v{s}ki}}%
     \def\btxlanguagenameaustrian{\protect\foreignlanguage{#1}{nem\v{s}ki}}%
     \def\btxlanguagenamebrazil{\protect\foreignlanguage{#1}{portugalski}}%
     \def\btxlanguagenamebrazilian{\protect\foreignlanguage{#1}{portugalski}}%
